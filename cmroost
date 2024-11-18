@@ -1,0 +1,7 @@
+import webbrowser
+
+# The URL you want to open
+url = "https://www.challengermode.com/s/StrangeWayz"
+
+# Open the URL in the default web browser
+webbrowser.open(url) 
